@@ -4,7 +4,8 @@ body,html{
 }	
 
 h1{
-	Font: Times New Roman;			
+	Font: Times New Roman;	
+	font-size:95%;		
 	position: absolute; 
 	top: 5%;
 	left: 46%;
